@@ -5,6 +5,7 @@ This API contains the endpoint for book management. This API can handle:
 3. Get book data based on the book id
 4. Update book data based on the book id
 5. Delete book data based on the book id
+
 Authorization used in this API are 'Basic Auth', where the default credentials are:
 Username: apiuser
 Password: passapiuser123
