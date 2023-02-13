@@ -20,3 +20,5 @@ How to run the API:
 1. Clone the API repository
 2. Run 'php artisan serve'
 3. The API will be available at 'http://127.0.0.1:8000/api/books'
+
+Unit Testing available at tests/Unit/APITest.php file.
